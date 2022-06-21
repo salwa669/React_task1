@@ -36,3 +36,75 @@
     transform: rotate(360deg);
   }
 }
+.homediv{
+  background-image: url(./cover.jpg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: antiquewhite;
+ 
+}
+.coverdiv{
+  padding: 10%;
+ margin-left: 5%;
+
+}
+
+.aboutdiv{
+  padding: 5%;
+ 
+}
+.aboutdiv2{
+  padding: 7%;
+}
+.pabout{
+  padding: 2%;
+  margin-left: 3%;
+}
+.skills{
+  padding: 5%;
+  font-size: 40px;
+}
+.skillslist{
+  padding-top: 10%;
+  
+
+}
+
+.skillcontainer{
+  background-color: #37393d;
+ 
+  color:aliceblue
+}
+
+.footer{
+  background-color: #202021;
+  color:aliceblue
+}
+.foot{
+  padding: 5%;
+}
+.link{
+  text-decoration: none;
+}
+
+ .contair {
+  margin: 100px auto;
+
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.2);
+  position: relative;
+  border-radius: 10px;
+  height: 600px;
+  background-image: linear-gradient(to bottom right, gray, rgb(96, 24, 122));
+  
+}
+
+.butn{
+  margin-top: 2%;
+  margin-left: 42%;
+ 
+}
+.head{
+  color:white;
+  margin-left: 28%;
+}
